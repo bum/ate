@@ -5,3 +5,4 @@ const App = {
 };
 
 Vue.createApp(App).mount("#app");
+console.log('hi 1');
